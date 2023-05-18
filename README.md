@@ -8,7 +8,7 @@
 
 ## Tecnologias que uso no meu dia-a-dia:
 
-<div style="display: inline_block">
+## <div style="display: inline_block">
   <img align="center" alt="bruno-html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="bruno-css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="bruno-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -19,7 +19,7 @@
   <img align="center" alt="bruno-angula" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white " />
 </div>
 
-<br/><br/>
+<br/>
 
 ° Salmos - 116:12,13 📖❤️ 
 
