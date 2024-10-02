@@ -1,7 +1,7 @@
 ### Olá, me chamo Bruno ✌️
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com](https://www.linkedin.com/in/bruno-belarmino-0a2408277/)
+)](https://www.linkedin.com/in/bruno-belarmino-0a2408277/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruno_belarmino_/)
 
 <div align="center">
