@@ -4,11 +4,13 @@
 )](https://www.linkedin.com/in/bruno-belarmino-0a2408277/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruno_belarmino_/)
 
-<div align="center">
-  <a href="https://github.com/BrunoBelarmino007">
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoBelarmino007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="35%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBelarmino007&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
+
+![Bruno's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=BrunoBelarmino007\&show_icons=true\&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBelarmino007&layout=compact&langs_count=7&theme=dark)
+
+
 
 ##
    
@@ -50,3 +52,4 @@ Nerd por natureza. Desenvolvedor por vocação.
     <img src="https://komarev.com/ghpvc/?username=BrunoBelarmino007&color=blue&style=flat)" />
   </a>
 </p>
+![Snake animation](https://github.com/BrunoBelarmino007/BrunoBelarmino007/blog/output/github-contribution-grid-snake.svg)
