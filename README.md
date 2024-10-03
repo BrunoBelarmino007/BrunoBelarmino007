@@ -12,7 +12,7 @@
   
 - Criatividade, facilidade em aprender e ensinar, trabalho em equipe e raciocínio lógico fazem parte do meu perfil.
 
-<h3> Meios alternativos de contato: </h3>
+<h3> Meios alternativos de contato </h3>
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/bruno-belarmino-0a2408277/)
