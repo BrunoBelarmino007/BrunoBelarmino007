@@ -52,4 +52,4 @@ Nerd por natureza. Desenvolvedor por vocação.
     <img src="https://komarev.com/ghpvc/?username=BrunoBelarmino007&color=blue&style=flat)" />
   </a>
 </p>
-![Snake animation](https://github.com/BrunoBelarmino007/BrunoBelarmino007/blog/output/github-contribution-grid-snake.svg)
+
