@@ -18,7 +18,7 @@
 )](https://www.linkedin.com/in/bruno-belarmino-0a2408277/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruno_belarmino_/)
 
-![Bruno's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=BrunoBelarmino007\&show_icons=true\&theme=dark)
+[![Bruno's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=BrunoBelarmino007\&show_icons=true\&theme=dark)](https://github-readme-stats.vercel.app/api?username=BrunoBelarmino007&show_icons=true&count_private=true&theme=dark)
 
 ##
    
