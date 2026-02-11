@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="./README_EN.md">🇺🇸 English Version</a> | 🇧🇷 Versão em Português
+  <a href="./README.md"><img src="https://img.shields.io/badge/🇧🇷-Português-green?style=for-the-badge"></a>
+  <a href="./README_EN.md"><img src="https://img.shields.io/badge/🇺🇸-English-blue?style=for-the-badge"></a>
 </p>
 
 <h1 align="center">
