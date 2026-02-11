@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="./README_EN.md">🇺🇸 English Version</a> | 🇧🇷 Versão em Português
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Olá!+👋;+Sou+Bruno+Belarmino!;+Desenvolvedor+Full+Stack;+Analista+de+Dados!;" />
 </h1>
