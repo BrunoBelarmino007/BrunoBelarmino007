@@ -1,6 +1,7 @@
 <p align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/🇧🇷-Português-green?style=for-the-badge"></a>
-  <a href="./README_EN.md"><img src="https://img.shields.io/badge/🇺🇸-English-blue?style=for-the-badge"></a>
+  <a href="./README_EN.md">
+    <img src="https://img.shields.io/badge/Version 🇺🇸-English-0366d6?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 <h1 align="center">
