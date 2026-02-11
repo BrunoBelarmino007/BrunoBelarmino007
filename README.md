@@ -18,6 +18,15 @@
 )](https://www.linkedin.com/in/bruno-belarmino-0a2408277/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruno_belarmino_/)
 
+---
+
+### Estatísticas do GitHub
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrunoBelarmino007&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</p>
+
+---
 
 ##
    
