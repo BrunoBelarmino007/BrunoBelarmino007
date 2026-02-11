@@ -1,5 +1,7 @@
 <p align="center">
-  🇺🇸 English Version | <a href="./README.md">🇧🇷 Versão em Português</a>
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/Versão 🇧🇷-Português-2ea44f?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 <h1 align="center">
