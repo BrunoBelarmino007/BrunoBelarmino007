@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Olá!+👋;+Sou+Bruno+Belarmino!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Olá!+👋;+Sou+Bruno+Belarmino!;+Desenvolvedor+Full+Stack;+Analista+de+Dados!;" />
 </h1>
 
 <h3 align="center">
-💻 Desenvolvedor Full Stack | 🛠️ Técnico em Informática | 🎓 Bacharel em Sistemas de Informação
+💻 Desenvolvedor Full Stack Júnior | 📊 Analista de Dados Júnior 
 </h3>
 
 ---
